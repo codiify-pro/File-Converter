@@ -2,6 +2,9 @@
 
 This is a simple and user-friendly web tool developed by **Codiify** for converting text content into various file formats. You can easily input content, choose a format, and download the converted file directly.
 
+![File Converter Tool](https://i.ibb.co/sKfGG40/20241219-205238.jpg)
+
+
 ## Features
 
 - **Content Conversion**: Convert content into formats like `.txt`, `.docx`, `.html`, `.css`, `.js`, `.py`, and `.json`.
