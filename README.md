@@ -36,7 +36,7 @@ To use this tool, follow these steps:
 
 ## Credits
 
-This tool is developed by **Tecky AaryaN**. If you have any feedback, feel free to reach out or contribute to the project on GitHub.
+This tool is developed by **Codiify**. If you have any feedback, feel free to reach out or contribute to the project on GitHub.
 
 ## License
 
